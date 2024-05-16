@@ -12,27 +12,27 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
     <td align="center" width="70">
-        <img src="https://skillicons.dev/icons?i=javascript" width="55" height="35" alt="javascript" /> 
+        <img src="https://skillicons.dev/icons?i=javascript" width="65" height="45" alt="javascript" /> 
       JavaScript
     </td>
     <td align="center" width="70">
-        <img src="https://skillicons.dev/icons?i=css" width="55" height="35" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="45" alt="css" />
       CSS
     </td>
     </td>
      <td align="center"  width="70">
-        <img src="https://skillicons.dev/icons?i=html" width="55" height="35"alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="45"alt="HTML5" />
        HTML5
     </td>
      <td align="center"  width="70">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="35" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="45" alt="bootstrap" />
        Bootstrap
     </td>
       <td align="center" width="70">
-       <img src="https://skillicons.dev/icons?i=github" width="55" height="35" alt="Github" />
+       <img src="https://skillicons.dev/icons?i=github" width="65" height="45" alt="Github" />
         Github
       <td align="center" width="70">
-       <img src="https://skillicons.dev/icons?i=vscode" width="55" height="35" alt="Vscode" />
+       <img src="https://skillicons.dev/icons?i=vscode" width="65" height="45" alt="Vscode" />
         Vscode
     </td>
   </tr>
