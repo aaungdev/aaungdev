@@ -9,17 +9,36 @@
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+    <td align="center" width="70">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="35" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="70">
+        <img src="https://skillicons.dev/icons?i=css" width="55" height="35" alt="css" />
+      <br>CSS
+    </td>
+    </td>
+     <td align="center"  width="70">
+        <img src="https://skillicons.dev/icons?i=html" width="55" height="35"alt="HTML5" />
+      <br>HTML5
+    </td>
+     <td align="center"  width="70">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="35" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+      <td align="center" width="70">
+       <img src="https://skillicons.dev/icons?i=github" width="55" height="35" alt="Github" />
+      <br>Github
+      <td align="center" width="70">
+       <img src="https://skillicons.dev/icons?i=vscode" width="55" height="35" alt="Vscode" />
+      <br>Vscode
+    </td>
+  </tr>
+</table>
+</div>
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aaungdev&theme=default&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
