@@ -12,28 +12,28 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
     <td align="center" width="70">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="35" />
-      <br>JavaScript
+        <img src="https://skillicons.dev/icons?i=javascript" width="55" height="35" alt="javascript" /> 
+      JavaScript
     </td>
     <td align="center" width="70">
         <img src="https://skillicons.dev/icons?i=css" width="55" height="35" alt="css" />
-      <br>CSS
+      CSS
     </td>
     </td>
      <td align="center"  width="70">
         <img src="https://skillicons.dev/icons?i=html" width="55" height="35"alt="HTML5" />
-      <br>HTML5
+       HTML5
     </td>
      <td align="center"  width="70">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="35" alt="bootstrap" />
-      <br>Bootstrap
+       Bootstrap
     </td>
       <td align="center" width="70">
        <img src="https://skillicons.dev/icons?i=github" width="55" height="35" alt="Github" />
-      <br>Github
+        Github
       <td align="center" width="70">
        <img src="https://skillicons.dev/icons?i=vscode" width="55" height="35" alt="Vscode" />
-      <br>Vscode
+        Vscode
     </td>
   </tr>
 </table>
