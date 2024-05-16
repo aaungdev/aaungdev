@@ -16,10 +16,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aaungdev&theme=default&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=aaungdev&theme=default&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaungdev&theme=default&show_icons=true&hide_border=true&count_private=true)
+
 </div>
 
 
