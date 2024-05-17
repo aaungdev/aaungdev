@@ -24,6 +24,10 @@
         <img src="https://skillicons.dev/icons?i=html" width="65" height="45"alt="HTML5" />
        HTML5
     </td>
+       <td align="center"  width="70">
+        <img src="https://skillicons.dev/icons?i=cpp" width="65" height="45"alt="C++" />
+       HTML5
+    </td>
      <td align="center"  width="70">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="45" alt="bootstrap" />
        Bootstrap
