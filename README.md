@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
- <div><img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Codewars&query=%24.ranks.overall.name&url=https://www.codewars.com/api/v1/users/aaungdev" width="120"></div>
+ <div><a href="https://www.codewars.com/users/aaungdev" target="_blank">
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Codewars&query=%24.ranks.overall.name&url=https://www.codewars.com/api/v1/users/aaungdev" width="120">
+</a></div>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=25&duration=4972&pause=1000&color=0A0F70&center=true&multiline=true&random=false&width=435&lines=Hello+there!+I'm+Aung+Aung)](https://git.io/typing-svg)
