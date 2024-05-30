@@ -1,10 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+ <div><img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Codewars&query=%24.ranks.overall.name&url=https://www.codewars.com/api/v1/users/aaungdev" width="120"></div>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=25&duration=4972&pause=1000&color=0A0F70&center=true&multiline=true&random=false&width=435&lines=Hello+there!+I'm+Aung+Aung)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Codewars&query=%24.ranks.overall.name&url=https://www.codewars.com/api/v1/users/aaungdev" width="120">
+
 
 
 🌟 Welcome to my GitHub! I'm a front-end developer and Year Up student passionate about creating user-friendly web applications. Currently, I'm deepening my knowledge in JavaScript and DevOps practices. 🚀
