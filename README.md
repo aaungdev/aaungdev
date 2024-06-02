@@ -22,7 +22,7 @@
       JavaScript
     </td>
     <td align="center" width="70">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="45" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="65" height="45" alt="CSS" />
       CSS
     </td>
     </td>
