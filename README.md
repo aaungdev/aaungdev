@@ -11,7 +11,7 @@
 
 
 
-🌟 Welcome to my GitHub! I'm a front-end developer and Year Up student passionate about creating user-friendly web applications. Currently, I'm deepening my knowledge in JavaScript and DevOps practices. 🚀
+🌟 Welcome to my GitHub! I'm a front-end developer and Year Up student passionate about creating user-friendly web applications. Currently, I'm deepening my knowledge in JavaScript and Python. 🚀
 
 ## 🛠️ Tech Stack
 
