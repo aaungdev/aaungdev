@@ -17,26 +17,33 @@
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
-    <td align="center" width="70">
-        <img src="https://skillicons.dev/icons?i=javascript" width="65" height="45" alt="javascript" /> 
-      JavaScript
+    <td align="center"  width="70">
+        <img src="https://skillicons.dev/icons?i=html" width="65" height="45"alt="HTML5" />
+       HTML5
     </td>
     <td align="center" width="70">
         <img src="https://skillicons.dev/icons?i=css" width="65" height="45" alt="CSS" />
       CSS
     </td>
+    <td align="center"  width="70">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="45" alt="bootstrap" />
+       Bootstrap
     </td>
-     <td align="center"  width="70">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="45"alt="HTML5" />
-       HTML5
+    <td align="center" width="70">
+        <img src="https://skillicons.dev/icons?i=javascript" width="65" height="45" alt="javascript" /> 
+      JavaScript
     </td>
-       <td align="center"  width="70">
+    <td align="center" width="70">
+        <img src="https://skillicons.dev/icons?i=py" width="65" height="45" alt="python" /> 
+      Python
+    </td>
+    <td align="center"  width="70">
         <img src="https://skillicons.dev/icons?i=cpp" width="65" height="45"alt="C++" />
        C++
     </td>
-     <td align="center"  width="70">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="45" alt="bootstrap" />
-       Bootstrap
+    <td align="center"  width="70">
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="45"alt="git" />
+       Git
     </td>
       <td align="center" width="70">
        <img src="https://skillicons.dev/icons?i=github" width="65" height="45" alt="Github" />
