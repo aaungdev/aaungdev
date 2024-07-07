@@ -8,7 +8,7 @@
 
 ## 👋 Hello There! Who am I?
 
-<p align="center">🌟 I’m a software developer passionate about creating intuitive and user-friendly applications. I’m currently focusing on JavaScript and Python to enhance my coding skills and contribute effectively to projects. Let’s connect and collaborate on innovative solutions! 🌟</p>
+<p align="center">🌟 I’m a software developer passionate about creating intuitive and user-friendly applications. Let’s connect and collaborate on innovative solutions! 🌟</p>
 
 
 ## 🛠️ Tech Stack
